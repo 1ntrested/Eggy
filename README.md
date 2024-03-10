@@ -23,7 +23,7 @@ To run the project locally, follow these steps:
 # Clone the repository:
 bash
 Copy code
-git clone https://github.com/1ntrested/eggy](https://github.com/1ntrested/eggy.git)
+git clone https://github.com/1ntrested/eggy.git
 Navigate to the project directory:
 bash
 Copy code
